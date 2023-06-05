@@ -1,1 +1,13 @@
 /* write your override styles here */
+.tag-1 {
+    background: url(image.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+
+  .tag-2 {
+    background-color: aquamarine;
+  }
+ .parent {
+    background: green;
+ } 
