@@ -7,7 +7,13 @@
 
   .tag-2 {
     background-color: aquamarine;
+    z-index: 3;
+    top: 250px;
+    left: 210px;
   }
  .parent {
     background: green;
+    z-index: 4;
+    top: 220px;
+    left: 250px;
  } 
